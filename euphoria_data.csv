@@ -1,0 +1,11 @@
+user_id,algorithm,session_duration,happiness_rating
+101,JoyStream,45,8
+102,SerenityFlow,30,7
+103,DeepPulse,60,6
+104,JoyStream,15,9
+105,DeepPulse,50,5
+106,SerenityFlow,20,7
+107,JoyStream,35,8
+108,DeepPulse,25,4
+109,SerenityFlow,40,7
+110,JoyStream,55,9
