@@ -1,7 +1,7 @@
 # Euphoria User Engagement Analysis Report
 
-**Author:** [Your Name]  
-**Date:** [Submission Date]
+**Author:** [Royton Boulware]  
+**Date:** [3-10-25]
 
 ---
 
