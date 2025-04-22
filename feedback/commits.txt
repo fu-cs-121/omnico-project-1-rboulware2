@@ -1,3 +1,40 @@
+commit 4b619d7891620a12d09bf93ab6e400665a3b568e
+Author: Mark Johnson <wmdmark@gmail.com>
+Date:   Tue Mar 25 16:59:27 2025 -0400
+
+    Feedback for Omnico Project 1
+
+diff --git a/feedback/readme.md b/feedback/readme.md
+new file mode 100644
+index 0000000..b063b90
+--- /dev/null
++++ b/feedback/readme.md
+@@ -0,0 +1,24 @@
++# Omnico Project 1 Evaluation for Royton Boulware
++
++### Python Script Functionality
++
++- Your `main.py` script successfully opens the CSV file, reads in the data, converts the session duration and happiness rating values to integers, and correctly aggregates the totals for each algorithm.
++- The averages for happiness and session duration are calculated as specified, and you correctly identify the algorithm with the highest average happiness rating as well as the one with the longest average session duration.
++- The final printed output closely matches the provided sample output, demonstrating that you met the functional requirements of the assignment.
++
++### Report Content
++
++- Your `report.md` is structured with clear sections for the introduction, methodology, results, observations, and conclusions.
++- You explained your approach to reading the CSV file, performing the calculations, and determining the key statistics. The report details your reasoning in a way that aligns well with the assignment objectives.
++- The results section clearly lists the calculated values and identifies the top-performing algorithms, which effectively communicates your analysis.
++
++### Overall Implementation & Commit History
++
++- The commit messages indicate a clear progression in your work, with a commit that marks both the completion of the `main.py` project portion and the analysis report.
++- Your work is organized and meets all the requirements stated in the project instructions.
++
++---
++
++Excellent work, Royton! Your code and report effectively demonstrate the data analysis skills required for this assignment.
++
++GRADE: A
+
 commit db0aca747731dc95919425302822d1a3a483f15c
 Author: rboulware2 <boulro6@furman.edu>
 Date:   Mon Mar 10 15:16:09 2025 -0400
